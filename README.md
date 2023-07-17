@@ -1,2 +1,20 @@
-# fedora-setup
-This repository contains the bash script setup.sh which consists of initial setup for Fedora Linux 
+
+# Fedora Linux Setup
+
+This bash script configures Fedora Linux according to my usage.
+
+To run this:
+
+
+
+## Deployment
+
+To run this project, open your linux terminal and run these commands:
+
+```bash
+  chmod +x setup.sh
+```
+```bash
+  bash setup.sh
+```
+
