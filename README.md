@@ -1,20 +1,36 @@
 
-# Fedora Linux Setup
+# Fedora setup
 
-This bash script configures Fedora Linux according to my usage.
-
-To run this:
+This Fedora setup script simply automatically configure fedora linux for me. Feel free to make changes in it according to your requirements.
 
 
 
-## Deployment
 
-To run this project, open your linux terminal and run these commands:
+
+
+## Run Locally
+
+Clone the project
 
 ```bash
-  chmod +x setup.sh
+$  git clone git@github.com:sparshk380/fedora-setup.git
 ```
+
+Go to the project directory
+
 ```bash
-  bash setup.sh
+$  cd fedora-setup
+```
+
+Give permissions
+
+```bash
+$  chmod +x setup.sh
+```
+
+Run the script
+
+```bash
+$  sudo ./setup.sh
 ```
 
