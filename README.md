@@ -1,7 +1,7 @@
 
-# Fedora setup
+# Fedora Linux setup
 
-This Fedora setup script simply automatically configure fedora linux for me. Feel free to make changes in it according to your requirements.
+This Fedora setup script simply automatically configures Fedora linux for me. Feel free to make changes in it according to your requirements.
 
 
 
