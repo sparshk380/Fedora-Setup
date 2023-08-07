@@ -1,5 +1,5 @@
 
-# Fedora Linux setup
+# Fedora or any Red Hat based Linux Distro setup
 
 This Fedora setup script simply automatically configures Fedora linux for me. Feel free to make changes in it according to your requirements.
 
