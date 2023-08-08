@@ -26,11 +26,7 @@ sudo dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.co
 sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
 sudo dnf install -y brave-browser brave-keyring
 
-#6. Install Google Chrome - 
-wget https://www.google.com/intl/en_in/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0
-sudo dnf install -y ~/Downloads/google*
-
-#7. Install zsh & oh-my-zsh
+#6. Install zsh & oh-my-zsh
 sudo dnf install -y zsh
 chsh -s $(which zsh)
 sudo echo "185.199.108.133 raw.githubusercontent.com" >> /etc/hosts
