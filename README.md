@@ -31,6 +31,6 @@ $  chmod +x setup.sh
 Run the script
 
 ```bash
-$  sudo ./setup.sh
+$  sudo bash setup.sh
 ```
 
