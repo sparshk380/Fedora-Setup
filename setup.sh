@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. Create WorkSpace Directory
-mkdir -p ~/WorkSpace/{GitLab,Git,Python,Terraform,Docker,Kubernetes}
+mkdir -p /home/$(whoami)/WorkSpace/{GitLab,Git,Python,Terraform,Docker,Kubernetes}
 ls -lR ~/WorkSpace
 
 #3. Install necessary software
