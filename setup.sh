@@ -5,7 +5,7 @@ mkdir -p /home/$(whoami)/WorkSpace/{GitLab,Git,Python,Terraform,Docker,Kubernete
 ls -lR ~/WorkSpace
 
 #3. Install necessary software
-sudo dnf install -y gnome-tweaks && sudo dnf install -y vim-enhanced && sudo install -y git 
+sudo dnf install -y gnome-tweaks && sudo dnf install -y vim-enhanced && sudo install -y git && sudo install -y util-linux-user
 
 
 #2. Edit dnf config - 
